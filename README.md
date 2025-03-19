@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Hi, I'm Nhân!</h1>
 <p align="center">
-  🌏 World Explorer | 💻 Frontend Developer | 📈 Startup Enthusiast
+  💻 Frontend Developer | 📈 Startup Enthusiast | 🌏 World Explorer
 </p>
 
 ### 💡 About Me  
