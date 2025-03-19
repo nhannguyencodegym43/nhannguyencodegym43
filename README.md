@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">🚀 Hi, I'm Nhân!</h1>
+<p align="center">
+  🌏 World Explorer | 💻 Frontend Developer | 📈 Startup Enthusiast
+</p>
 
-<!--
-**nhannguyencodegym43/nhannguyencodegym43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 About Me  
+- 🚀 Currently working on **frontend projects & business ideas**  
+- 📚 Passionate about **self-improvement, technology, and entrepreneurship**  
+- 🌍 Love exploring new cultures & places  
 
-Here are some ideas to get you started:
+### 🛠 Skills  
+- 💻 JavaScript | HTML | CSS  
+- 🎥 Basic Video Editing  
+- ⌚ Time management  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400" />
+</p>
