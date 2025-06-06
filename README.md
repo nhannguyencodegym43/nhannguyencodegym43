@@ -9,7 +9,7 @@
 - 🌍 Love exploring new cultures & places  
 
 ### 🛠 Skills  
-- 💻 JavaScript | HTML | CSS  
+- 💻 JavaScript (ReactJS) | HTML | CSS  
 - 🎥 Basic Video Editing  
 - ⌚ Time management  
 
